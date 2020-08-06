@@ -15,6 +15,8 @@
   - Get My dmenu patch from https://github.com/umbe77/dmenu and install it with sudo make clean install
 
   - Get My st patch from https://github.com/umbe77/st and install it with sudo make clean install
+  
+  - Get xbanish repo from https://github.com/jcs/xbanish and compile it
 
 - Run ./install.sh
 - Post-Intallation commands
