@@ -15,6 +15,7 @@ sudo dnf install -y \
     python3-devel \
     bspwm \
     sxhkd \
+    polybar \
     nitrogen \
     zsh \
     nemo \
