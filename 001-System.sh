@@ -18,6 +18,7 @@ sudo dnf install -y \
     polybar \
     nitrogen \
     zsh \
+    chromium \
     nemo \
     nemo-fileroller \
     dunst \
