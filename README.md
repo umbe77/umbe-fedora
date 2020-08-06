@@ -9,7 +9,7 @@
   - install all nedded packages for build dmenu and st
 
     - ```bash
-      sudo dnf install -y git libX11-devel libXinerama-devel libXft-devel harfbuzz-devel libXt-devel libXfixies-devel libXi-devel`
+      sudo dnf install -y git libX11-devel libXinerama-devel libXft-devel harfbuzz-devel libXt-devel libXfixes-devel libXi-devel`
       ```
 
   - Get My dmenu patch from https://github.com/umbe77/dmenu and install it with sudo make clean install
